@@ -1,2 +1,2 @@
 # firstrepository
-intro to github
+intro to github by akshita
