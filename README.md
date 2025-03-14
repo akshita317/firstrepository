@@ -21,11 +21,13 @@ intro to github by akshita
 ## Array
 |  |
 | ------- |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/akshita317/firstrepository/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/akshita317/firstrepository/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3643-zero-array-transformation-ii](https://github.com/akshita317/firstrepository/tree/master/3643-zero-array-transformation-ii) |
 ## Binary Search
 |  |
 | ------- |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/akshita317/firstrepository/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/akshita317/firstrepository/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3643-zero-array-transformation-ii](https://github.com/akshita317/firstrepository/tree/master/3643-zero-array-transformation-ii) |
 ## Counting
